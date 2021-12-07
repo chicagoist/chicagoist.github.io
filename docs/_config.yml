@@ -17,7 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Is more tremendous meaning awful
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,13 +29,19 @@ url: "https://chicagoist.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 github: [metadata]
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-
+minima:
+ skin: solarized-dark
+ date_format: "%b %-d, %Y"
+ disqus:
+   shortname: "@legioneroff"
+          # Minima date format
+          # # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+show_excerpts: false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
