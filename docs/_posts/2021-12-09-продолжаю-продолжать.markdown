@@ -2,7 +2,7 @@
 layout: post
 title:  "Привет, мой первый пост!"
 date:   2021-12-09
-categories: post update
+categories: post posts
 ---
 Привет, Мир!
 
