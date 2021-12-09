@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Привет, мой первый пост!"
+date:   2021-12-09
+categories: post update
+---
+Привет, Мир!
+
+{% highlight perl %}
+
+#!/usr/bin/perl -w
+
+use strict;
+use warnings;
+use utf8::all;
+
+print "Hello, World!\n";
+
+{% endhighlight %}
