@@ -4,7 +4,7 @@ title:  "For an experienced programmer to read..."
 date:   2021-12-11
 categories: post code
 ---
-![Signature](/favicon.ico)
+![Signature](favicon.ico)
 
 Несомненно, самым типичным применением циклов for являются счетные итеративные вычисления:
 
