@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # title: Is more tremendous meaning awful
-title: Is more tremendous meaning awful
+title: sudo rm -Rf /
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Напишите здесь отличное описание для вашего нового сайта.
