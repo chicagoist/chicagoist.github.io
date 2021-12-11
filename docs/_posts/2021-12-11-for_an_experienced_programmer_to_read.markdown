@@ -26,7 +26,7 @@ for ($i = 1; $i <= 10; $i++) {  # Отсчет от 1 до 10
 Радуюсь этому! Нашёл подтверждение от автора того, что я `an experienced programmer` !
 
 
-#![books](https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image__1_5x/public/perl-not-dead-programming-language.jpg?itok=-UKvEy6_)
+<!---#![books](https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image__1_5x/public/perl-not-dead-programming-language.jpg?itok=-UKvEy6_)-->
 ![book](/IMAGES/perl-not-dead-programming-language.jpg)
 
 
