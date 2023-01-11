@@ -4,4 +4,5 @@ title:  "Я снова онлайн!"
 date:   2023-01-11
 categories: post posts
 ---
-{% highlight 2023 %}
+
+Попробую снова вести блог...
