@@ -10,8 +10,8 @@ categories: post posts
 перегрев с выключением ноута. Пришлось разобраться с мануальными настрой-
 ками управления куллера. Помогла статья с Gentoo Wiki:
 
-1.<!---#![fancontrol]https://wiki.gentoo.org/wiki/Fan_speed_control/lm_sensors%27_fancontrol-->
-2.<!---#![ThinkPadT430]https://wiki.gentoo.org/wiki/Lenovo_Thinkpad_T430-->
+1. https://wiki.gentoo.org/wiki/Fan_speed_control/lm_sensors%27_fancontrol
+2. https://wiki.gentoo.org/wiki/Lenovo_Thinkpad_T430
 
 С настройками утилиты thinkfan вообще не было проблем в автоматическом 
 режиме, а вот fancontrol пришлось настраивать вручную, используя утилиту 
