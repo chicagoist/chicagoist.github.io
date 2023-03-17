@@ -11,7 +11,6 @@ categories: post posts
 ками управления куллера. Помогла статья с Gentoo Wiki:
 
 1. https://wiki.gentoo.org/wiki/Fan_speed_control/lm_sensors%27_fancontrol
-<a href="{{ https://wiki.gentoo.org/wiki/Fan_speed_control/lm_sensors%27_fancontrol }}">{{ fancontrol }}</a>
 2. https://wiki.gentoo.org/wiki/Lenovo_Thinkpad_T430
 
 С настройками утилиты thinkfan вообще не было проблем в автоматическом 
