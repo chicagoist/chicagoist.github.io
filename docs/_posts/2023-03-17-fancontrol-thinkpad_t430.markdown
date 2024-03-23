@@ -58,7 +58,7 @@ MINSTOP=hwmon3/pwm1=30
 {% endhighlight %}
 
 
-<p>      <head>
+```<head>
         <script src='https://8x8.vc/vpaas-magic-cookie-bd5ae19ccaee4691baefc7b2997d3455/external_api.js' async></script>
         <style>html, body, #jaas-container { height: 100%; }</style>
         <script type="text/javascript">
@@ -73,5 +73,5 @@ MINSTOP=hwmon3/pwm1=30
           }
         </script>
       </head>
-</p>
+```
 
